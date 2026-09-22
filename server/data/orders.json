@@ -1,0 +1,108 @@
+[
+  {
+    "id": "3ba69409",
+    "userId": "1",
+    "items": [
+      {
+        "foodId": "1",
+        "name": "宫保鸡丁",
+        "price": 12,
+        "count": 1,
+        "subtotal": 12
+      },
+      {
+        "foodId": "2",
+        "name": "红烧排骨",
+        "price": 16,
+        "count": 1,
+        "subtotal": 16
+      },
+      {
+        "foodId": "3",
+        "name": "番茄鸡蛋",
+        "price": 10,
+        "count": 1,
+        "subtotal": 10
+      }
+    ],
+    "total": 38,
+    "status": "已提交",
+    "time": "2026-06-21 01:05"
+  },
+  {
+    "id": "26519a51",
+    "userId": "1",
+    "items": [
+      {
+        "foodId": "1",
+        "name": "宫保鸡丁",
+        "price": 12,
+        "count": 1,
+        "subtotal": 12
+      },
+      {
+        "foodId": "2",
+        "name": "红烧排骨",
+        "price": 16,
+        "count": 1,
+        "subtotal": 16
+      }
+    ],
+    "total": 28,
+    "status": "已提交",
+    "time": "2026-06-20 22:15"
+  },
+  {
+    "id": "8d31216d",
+    "userId": "1",
+    "items": [
+      {
+        "foodId": "2",
+        "name": "红烧排骨",
+        "price": 16,
+        "count": 1,
+        "subtotal": 16
+      },
+      {
+        "foodId": "3",
+        "name": "番茄鸡蛋",
+        "price": 10,
+        "count": 1,
+        "subtotal": 10
+      },
+      {
+        "foodId": "4",
+        "name": "牛肉面",
+        "price": 15,
+        "count": 1,
+        "subtotal": 15
+      }
+    ],
+    "total": 41,
+    "status": "已提交",
+    "time": "2026-06-20 00:01"
+  },
+  {
+    "id": "015e6ddc",
+    "userId": "1",
+    "items": [
+      {
+        "foodId": "1",
+        "name": "宫保鸡丁",
+        "price": 12,
+        "count": 2,
+        "subtotal": 24
+      },
+      {
+        "foodId": "2",
+        "name": "红烧排骨",
+        "price": 16,
+        "count": 2,
+        "subtotal": 32
+      }
+    ],
+    "total": 56,
+    "status": "已提交",
+    "time": "2026-06-19 23:54"
+  }
+]

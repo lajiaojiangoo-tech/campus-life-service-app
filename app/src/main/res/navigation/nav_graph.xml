@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/menu_page">
+
+    <fragment
+        android:id="@+id/menu_page"
+        android:name="cn.edu.gdpnc.jsjxy.mmt.FirstFragment"
+        android:label="菜单" />
+
+    <fragment
+        android:id="@+id/mine_page"
+        android:name="cn.edu.gdpnc.jsjxy.mmt.SecondFragment"
+        android:label="我的" />
+
+</navigation>

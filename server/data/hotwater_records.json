@@ -1,0 +1,42 @@
+[
+  {
+    "id": "b2891f87",
+    "userId": "1",
+    "type": "使用",
+    "liters": 2,
+    "cost": 2.0,
+    "location": "1号宿舍热水房",
+    "balance": 9881.0,
+    "time": "2026-06-21 01:05"
+  },
+  {
+    "id": "e12070bd",
+    "userId": "1",
+    "type": "使用",
+    "liters": 5,
+    "cost": 5.0,
+    "location": "1号宿舍热水房",
+    "balance": 9992.5,
+    "time": "2026-06-20 22:38"
+  },
+  {
+    "id": "7a9b5fbf",
+    "userId": "1",
+    "type": "使用",
+    "liters": 5,
+    "cost": 5.0,
+    "location": "1号宿舍热水房",
+    "balance": 9997.5,
+    "time": "2026-06-20 22:30"
+  },
+  {
+    "id": "411e0021",
+    "userId": "1",
+    "type": "使用",
+    "liters": 1,
+    "cost": 1.0,
+    "location": "3号宿舍热水房",
+    "balance": 92.5,
+    "time": "2026-06-19 23:56"
+  }
+]

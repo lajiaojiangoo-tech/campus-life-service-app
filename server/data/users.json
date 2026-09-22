@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "password": "demo1234",
+    "name": "张三1",
+    "studentId": "24100000001",
+    "dorm": "A-214"
+  },
+  {
+    "id": "c39e093d",
+    "username": "123",
+    "password": "demo1234",
+    "name": "李四",
+    "studentId": "24100000002",
+    "dorm": "5"
+  },
+  {
+    "id": "2a2df14a",
+    "username": "testuser",
+    "password": "demo1234",
+    "name": "测试用户",
+    "studentId": "24100000004",
+    "dorm": "B-201"
+  },
+  {
+    "id": "1148324b",
+    "username": "testuser1",
+    "password": "demo1234",
+    "name": "测试用户",
+    "studentId": "24100000003",
+    "dorm": "B-201"
+  },
+  {
+    "id": "3c901f10",
+    "username": "testuser2",
+    "password": "demo1234",
+    "name": "测试用户",
+    "studentId": "24100000004",
+    "dorm": "B-201"
+  },
+  {
+    "id": "fec258ae",
+    "username": "testuser4",
+    "password": "demo1234",
+    "name": "测试用户",
+    "studentId": "24100000001",
+    "dorm": "B-201"
+  }
+]

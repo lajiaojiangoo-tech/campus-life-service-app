@@ -1,0 +1,38 @@
+[
+  {
+    "userId": "1",
+    "balance": 180.0,
+    "flowGB": 20.0,
+    "isLogin": true
+  },
+  {
+    "userId": "c39e093d",
+    "balance": 30.0,
+    "flowGB": 20.0,
+    "isLogin": false
+  },
+  {
+    "userId": "2a2df14a",
+    "balance": 30.0,
+    "flowGB": 20.0,
+    "isLogin": false
+  },
+  {
+    "userId": "1148324b",
+    "balance": 30.0,
+    "flowGB": 20.0,
+    "isLogin": false
+  },
+  {
+    "userId": "3c901f10",
+    "balance": 30.0,
+    "flowGB": 20.0,
+    "isLogin": false
+  },
+  {
+    "userId": "fec258ae",
+    "balance": 30.0,
+    "flowGB": 20.0,
+    "isLogin": false
+  }
+]

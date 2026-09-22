@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "userId": "1",
+    "trackingNo": "SFdemo12347890",
+    "company": "顺丰",
+    "status": "已签收",
+    "pickupCode": "A1234",
+    "arrivalTime": "06-18 14:30"
+  },
+  {
+    "id": "2",
+    "userId": "1",
+    "trackingNo": "ZTO8888888888",
+    "company": "中通",
+    "status": "运输中",
+    "pickupCode": "B5678",
+    "arrivalTime": ""
+  },
+  {
+    "id": "3",
+    "userId": "1",
+    "trackingNo": "YTO6666666666",
+    "company": "圆通",
+    "status": "已签收",
+    "pickupCode": "C9012",
+    "arrivalTime": "06-15 09:20"
+  },
+  {
+    "id": "4",
+    "userId": "1",
+    "trackingNo": "YD9999999999",
+    "company": "韵达",
+    "status": "待取件",
+    "pickupCode": "D3456",
+    "arrivalTime": "06-19 10:00"
+  }
+]
